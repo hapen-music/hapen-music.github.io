@@ -1,0 +1,21 @@
+Commands Or Help
+
+
+the prefix: h$
+
+Bot:
+urls
+
+Music:
+
+play,
+pause,
+resume,
+queue,
+clear-queue,
+shuffle, 
+np,
+loop,
+volume,
+skip,
+stop
