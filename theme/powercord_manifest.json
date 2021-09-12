@@ -1,0 +1,9 @@
+{
+    "name": "HapEN's Skin",
+    "version": "1.0.0",
+    "author": "HapEN#6912",
+    "description": "is good theme :)",
+    "license": "MIT",
+    "theme": "index.css",
+    "splashTheme": "a.css"
+}
