@@ -1,7 +1,7 @@
 Commands Or Help
 
 
-the prefix: h$
+the prefix: dj<
 
 Bot:
 urls
